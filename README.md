@@ -62,7 +62,7 @@ estudiadas así como el contenido seleccionado para trabajar.
 
 ### Valores de presión considerados
 
-        SISTOLICA       DIASTOLICA
+    SISTOLICA(mm/Hg)       DIASTOLICA(mm/Hg)
 Normal     <120         <80
 Elevada    >120<129     <80   
 Hip. 1     >130<139     >80<89
